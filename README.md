@@ -52,5 +52,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerashish8&show_icons=true&locale=en&theme=algolia" width="400" alt="susaksham" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerashish8&theme=algolia" alt="susaksham" width="600"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developerashish8&theme=algolia" alt="susaksham" width="600"/></p>
 
