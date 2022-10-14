@@ -47,9 +47,10 @@
    <img alt="Github" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" />
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerashish8&show_icons=true&locale=en&layout=compact" alt="developerashish8" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerashish8&show_icons=true&locale=en&layout=compact&theme=algolia" width="400" alt="Ashish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerashish8&show_icons=true&locale=en" alt="developerashish8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerashish8&" alt="developerashish8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerashish8&show_icons=true&locale=en&theme=algolia" width="400" alt="susaksham" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerashish8&theme=algolia" alt="susaksham" width="600"/></p>
 
