@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, C**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **augashish4@gmail.com**
 
