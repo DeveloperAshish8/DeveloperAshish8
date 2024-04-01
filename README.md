@@ -1,7 +1,7 @@
 ![Ashish Kumar](https://user-images.githubusercontent.com/90233808/194742137-1381fc53-a2b0-4497-9125-336ae26a2e11.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px">, I'm Ashish Kumar</h1>
-<h3 align="center">Frontend Developer | Open Source | UnderGrad</h3>
+<h3 align="center">Frontend Developer | PreFinal Year | UnderGrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerashish8&label=Profile%20views&color=0e75b6&style=flat" alt="developerashish8" /> </p>
 
