@@ -8,10 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerashish8" alt="developerashish8" /></a> </p>
 
-- 🔭 I’m currently working on [Rezume](https://create-rezume.vercel.app/)
+- 🔭 I’m currently working on [Rezume](https://myrezume.live/)
 
 - 🌱 I’m currently learning **NodeJS**
-- 👨‍💻 All of my projects are available at [https://ashish4.vercel.app](https://ashish4.vercel.app)
+- 👨‍💻 All of my projects are available at [https://ashish4.me](https://ashish4.me)
 
 - 💬 Ask me about **ReactJS**
 
