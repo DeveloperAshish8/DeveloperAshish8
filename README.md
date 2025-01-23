@@ -1,8 +1,7 @@
-![Ashish Kumar](https://github.com/DeveloperAshish8/DeveloperAshish8/assets/90233808/856911fa-34c1-417c-986d-f561905baae3)
-
+![Ashish Kumar](https://github.com/user-attachments/assets/32e86709-8ddc-4196-9b07-230c295e6ed5)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px">, I'm Ashish Kumar</h1>
-<h3 align="center">Frontend Developer | PreFinal Year | UnderGrad</h3>
+<h3 align="center">Frontend Developer | Final Year | UnderGrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerashish8&label=Profile%20views&color=0e75b6&style=flat" alt="developerashish8" /> </p>
 
@@ -10,10 +9,10 @@
 
 - 🔭 I’m currently working on [Rezume](https://myrezume.live/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [https://ashish4.me](https://ashish4.me)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Frontend Engineering**
 
 - 📫 How to reach me **augashish4@gmail.com**
 
@@ -48,6 +47,13 @@
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img alt="Canva" src="https://img.shields.io/badge/Canva-F05032?style=for-the-badge&logo=canva&logoColor=white" />
    <img alt="Github" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" />
+   <img alt="Github" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" )" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+   <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+   <img alt="firebase" src="https://img.shields.io/badge/tailwindcss-0078D4?style=for-the-badge&logo=tailwindcss&logoColor=white%22)" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
    </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerashish8&show_icons=true&locale=en&layout=compact&theme=algolia" width="400" alt="Ashish" /></p>
