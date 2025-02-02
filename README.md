@@ -1,4 +1,7 @@
-![Ashish Kumar](https://github.com/user-attachments/assets/32e86709-8ddc-4196-9b07-230c295e6ed5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32e86709-8ddc-4196-9b07-230c295e6ed5" alt="Ashish Kumar">
+</p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px">, I'm Ashish Kumar</h1>
 <h3 align="center">Frontend Developer | Final Year | UnderGrad</h3>
