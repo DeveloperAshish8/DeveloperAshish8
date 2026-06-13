@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerashish8&label=Profile%20views&color=0e75b6&style=flat" alt="developerashish8" /> </p>
 
 
-- 🔭 I’m currently working on **ReactJS and AngularJS"
+- 🔭 I’m currently working on **ReactJS and AngularJS**
 
 - 🌱 I’m currently learning **System Design**
 - 👨‍💻 All of my projects are available at [https://ashish4.me](https://ashish4.me)
