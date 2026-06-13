@@ -22,6 +22,49 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+
+<table>
+<tr>
+
+
+<td align="center" width="33%">
+  <a href="https://javascript.plainenglish.io/how-i-learned-angular-as-a-react-developer-a-beginner-friendly-roadmap-63d1ac78c9a7?source=rss-e788b00de890------2">
+    <img
+      src="https://cdn-images-1.medium.com/max/1024/1*jQMLN4ma9RxO_z6o_NeLHA.png"
+      width="220"
+      alt="How I Learned Angular as a React Developer (A Beginner-Friendly Roadmap)"
+    />
+    <br /><br />
+    <b>How I Learned Angular as a React Developer (A Beginner-Friendly Roadmap)</b>
+  </a>
+</td>
+
+<td align="center" width="33%">
+  <a href="https://ashish-4.medium.com/my-ibm-associate-system-engineer-interview-experience-selected-112902ab23ed?source=rss-e788b00de890------2">
+    <img
+      src="https://cdn-images-1.medium.com/max/800/0*e0poPsTGBeDcciGV"
+      width="220"
+      alt="My IBM Associate System Engineer Interview Experience [SELECTED]"
+    />
+    <br /><br />
+    <b>My IBM Associate System Engineer Interview Experience [SELECTED]</b>
+  </a>
+</td>
+
+<td align="center" width="33%">
+  <a href="https://ashish-4.medium.com/gfg-sde-intern-frontend-interview-experience-b609e6d62386?source=rss-e788b00de890------2">
+    <img
+      src="https://cdn-images-1.medium.com/max/799/0*P-Pj6ETZT1Iv1ArL"
+      width="220"
+      alt="GFG | SDE Intern (Frontend) | Interview Experience"
+    />
+    <br /><br />
+    <b>GFG | SDE Intern (Frontend) | Interview Experience</b>
+  </a>
+</td>
+</tr>
+</table>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
