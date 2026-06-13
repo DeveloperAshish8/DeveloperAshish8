@@ -12,6 +12,8 @@ async function main() {
   const feed = await parser.parseURL(
     "https://medium.com/feed/@ashish-4"
   );
+  console.log("Posts found:", feed.items.length);
+console.log(feed.items.slice(0, 3).map(p => p.title));
 
   const posts = feed.items.slice(0, 3);
 
