@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerashish8&label=Profile%20views&color=0e75b6&style=flat" alt="developerashish8" /> </p>
 
 
-- 🔭 I’m currently working on MERN
+- 🔭 I’m currently working on **ReactJS and AngularJS"
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **System Design**
 - 👨‍💻 All of my projects are available at [https://ashish4.me](https://ashish4.me)
 
 - 💬 Ask me about **Frontend Engineering**
@@ -22,10 +22,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned Angular as a React Developer (A Beginner-Friendly Roadmap)](https://javascript.plainenglish.io/how-i-learned-angular-as-a-react-developer-a-beginner-friendly-roadmap-63d1ac78c9a7?source=rss-e788b00de890------2)
-- [My IBM Associate System Engineer Interview Experience [SELECTED]](https://ashish-4.medium.com/my-ibm-associate-system-engineer-interview-experience-selected-112902ab23ed?source=rss-e788b00de890------2)
-- [GFG | SDE Intern (Frontend) | Interview Experience](https://ashish-4.medium.com/gfg-sde-intern-frontend-interview-experience-b609e6d62386?source=rss-e788b00de890------2)
-- [How can I start to learn Front-end Web Development?](https://ashish-4.medium.com/how-can-i-start-to-learn-front-end-web-development-7057d1754602?source=rss-e788b00de890------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
