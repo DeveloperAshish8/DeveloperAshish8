@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px">, I'm Ashish Kumar</h1>
-<h3 align="center">Frontend Developer | Final Year | UnderGrad</h3>
+<h3 align="center">Frontend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerashish8&label=Profile%20views&color=0e75b6&style=flat" alt="developerashish8" /> </p>
 
