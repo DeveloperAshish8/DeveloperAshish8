@@ -4,47 +4,69 @@ const Parser = require("rss-parser");
 const parser = new Parser();
 
 function getThumbnail(post) {
-  const match = post.content?.match(/<img[^>]+src="([^"]+)"/);
-  return match ? match[1] : "";
+const content = post["content:encoded"] || post.content || "";
+
+const match = content.match(/<img[^>]+src="([^"]+)"/i);
+
+return match
+? match[1]
+: "https://via.placeholder.com/220x120?text=Medium";
 }
 
 async function main() {
-  const feed = await parser.parseURL(
-    "https://medium.com/feed/@ashish-4"
-  );
-  console.log("Posts found:", feed.items.length);
-console.log(feed.items.slice(0, 3).map(p => p.title));
+const feed = await parser.parseURL(
+"https://medium.com/feed/@ashish-4"
+);
 
-  const posts = feed.items.slice(0, 3);
+console.log("Posts found:", feed.items.length);
+console.log(
+"Latest posts:",
+feed.items.slice(0, 3).map((p) => p.title)
+);
 
-  const cards = posts
-    .map(
-      (post) => `
-<td width="33%" align="center">
+const posts = feed.items.slice(0, 3);
+
+const cards = posts
+.map(
+(post) => `
+
+<td align="center" width="33%">
   <a href="${post.link}">
-    <img src="${getThumbnail(post)}" width="250" />
+    <img
+      src="${getThumbnail(post)}"
+      width="220"
+      alt="${post.title}"
+    />
     <br /><br />
     <b>${post.title}</b>
   </a>
 </td>`
     )
-    .join("\n");
+    .join("");
 
-  const html = `
+const html = `
+
 <table>
 <tr>
 ${cards}
 </tr>
 </table>`;
 
-  const readme = fs.readFileSync("README.md", "utf8");
+const readme = fs.readFileSync("README.md", "utf8");
 
-  const updated = readme.replace(
-    /<!-- BLOG-POST-LIST:START -->([\\s\\S]*?)<!-- BLOG-POST-LIST:END -->/,
-    `<!-- BLOG-POST-LIST:START -->\n${html}\n<!-- BLOG-POST-LIST:END -->`
-  );
+const updated = readme.replace(
+/<!-- BLOG-POST-LIST:START -->([\s\S]*?)<!-- BLOG-POST-LIST:END -->/,
+`<!-- BLOG-POST-LIST:START -->\n${html}\n<!-- BLOG-POST-LIST:END -->`
+);
 
-  fs.writeFileSync("README.md", updated);
+console.log("README changed:", readme !== updated);
+
+fs.writeFileSync("README.md", updated);
+
+console.log("README updated successfully.");
 }
 
-main();
+main().catch((err) => {
+console.error(err);
+process.exit(1);
+});
