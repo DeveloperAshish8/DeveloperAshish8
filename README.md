@@ -29,6 +29,18 @@
 
 
 <td align="center" width="33%">
+  <a href="https://ashish-4.medium.com/seo-engineering-for-frontend-developers-what-actually-matters-7eceb054a620?source=rss-e788b00de890------2">
+    <img
+      src="https://cdn-images-1.medium.com/max/1024/1*PYF4v8Y2rAYff5zNcHSKyQ.png"
+      width="220"
+      alt="SEO Engineering for Frontend Developers: What Actually Matters"
+    />
+    <br /><br />
+    <b>SEO Engineering for Frontend Developers: What Actually Matters</b>
+  </a>
+</td>
+
+<td align="center" width="33%">
   <a href="https://javascript.plainenglish.io/how-i-learned-angular-as-a-react-developer-a-beginner-friendly-roadmap-63d1ac78c9a7?source=rss-e788b00de890------2">
     <img
       src="https://cdn-images-1.medium.com/max/1024/1*jQMLN4ma9RxO_z6o_NeLHA.png"
@@ -49,18 +61,6 @@
     />
     <br /><br />
     <b>My IBM Associate System Engineer Interview Experience [SELECTED]</b>
-  </a>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://ashish-4.medium.com/gfg-sde-intern-frontend-interview-experience-b609e6d62386?source=rss-e788b00de890------2">
-    <img
-      src="https://cdn-images-1.medium.com/max/799/0*P-Pj6ETZT1Iv1ArL"
-      width="220"
-      alt="GFG | SDE Intern (Frontend) | Interview Experience"
-    />
-    <br /><br />
-    <b>GFG | SDE Intern (Frontend) | Interview Experience</b>
   </a>
 </td>
 </tr>
